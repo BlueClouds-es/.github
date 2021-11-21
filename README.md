@@ -1,4 +1,4 @@
 
-# BlueClouds Corporation
+# BlueClouds
 ## About us
 Hello
